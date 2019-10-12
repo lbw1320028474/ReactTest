@@ -1,0 +1,66 @@
+{
+  "_from": "teaset",
+  "_id": "teaset@0.5.6",
+  "_inBundle": false,
+  "_integrity": "sha1-Rlgs/q+BvtlQUtdMFDtfHHEnHqw=",
+  "_location": "/teaset",
+  "_phantomChildren": {
+    "fbjs": "0.8.16",
+    "loose-envify": "1.3.1",
+    "object-assign": "4.1.1",
+    "prop-types": "15.6.0",
+    "react-timer-mixin": "0.13.3",
+    "rebound": "0.0.13"
+  },
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "teaset",
+    "name": "teaset",
+    "escapedName": "teaset",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/teaset/download/teaset-0.5.6.tgz",
+  "_shasum": "46582cfeaf81bed95052d74c143b5f1c71271eac",
+  "_spec": "teaset",
+  "_where": "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest",
+  "author": {
+    "name": "rilyu"
+  },
+  "bugs": {
+    "url": "https://github.com/rilyu/teaset/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.10",
+    "react-native-deprecated-custom-components": "github:facebookarchive/react-native-custom-components"
+  },
+  "deprecated": false,
+  "description": "A UI library for react native.",
+  "homepage": "https://github.com/rilyu/teaset#readme",
+  "keywords": [
+    "teaset",
+    "react",
+    "native",
+    "UI",
+    "library",
+    "framework"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "teaset",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rilyu/teaset.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.5.6"
+}

@@ -1,0 +1,761 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-svg/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="cd01a6436dfd3bb91e3c05f2d3b699c9a93d84db">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_99eb1d4c8955a3fce3cb69d7083bc8921f3c4f6b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-smart-splash-screen/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6b53fbe070aa0fa0a81848d28d245004db02d13f">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_f3791c8f0ac22223ed1668ff5389545406a10bfb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_ac002d48ee80fce387ec8685ca6c23e32937e72e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/d2d8d8915ee8455e844529f0a169e7374113dfdc/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="ee394a892dd21c03a528139c1e8d4e0e1264ac84">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_b85ade8eb9a24d197ce3d0e74811c33a1547254a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/23.0.1/support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-23.0.1_c7d13e2abb8a4d174460e107d4623b3f17ff1c59.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/libs/umeng-analytics-7.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3a35e46996fdf4c005d0d11058965a85dd47f4ed">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng-analytics-7.4.1_060a775ecf7db94774899f0f7ea94256541c9dcd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/push/build/intermediates/bundles/default/libs/umeng-push-4.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2eaf4dc21648f5e4e904bad7428e9ee5daa5870a">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng-push-4.0.0_096a42679c4b1d53045484581a4ee4af500fb063.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67924ce23ae0693a771d2c722b0733675a05da82">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_28b213174dd2f82a640dbd3a96d3a5b99e973871.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/48ee0ecaab5b3f5ea1b3fb1255f8ad498bfbec95/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2430e711762a749feb00b3d64858ca4768251b9d">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_3a89c72c075034bda2c1312599c480e22a81f3ea.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a8f8240380c9bdae9338cb0623d7ecc58ace7a7a/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_c1737792709a366860cbc141a9035a2417ca8292.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/constraint-layout-solver-1.0.2_1d7f3ea28b5d749dc1e4f9a2bf614f323969fb2f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1ffbc7416582a5e4e33c3264e7ee79bb2d0ab304/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fa0446a14ed5dd3725047d6399ffea771a564b30">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_a38de2d1c607742a3383902dbf9b8eb5836707a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1291a23b2a05588fdfbe8303f7c9351af316fb4e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="364364bf77b4a71afc5930fc3ae57b3f0eea637c">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_2859bb8d803eb859439c7a3e47854b70177f9fec.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5cc069066d0144117f73609079eded4a21a69df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/a6596431903e24153221738a8aff0dcd75c11dea/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_298a5a7ada917546cc02222aaee4791948cd7b73.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/SocialSDK_QQ_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="979e86baea93da217d1d6dd8649d04a11624c183">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/SocialSDK_QQ_Simplify_119e7fbaab269e3803c5e256fe58ba5684d80cff.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/push/build/intermediates/bundles/default/libs/alicloud-android-httpdns-1.1.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="aefc6b4a73c66ffdd9e56c3ee2a53d85369402e3">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/alicloud-android-httpdns-1.1.3_7a8476b6859cfc72c6d0c8bb8dd74afb5e61e7ed.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/7914e390bbbe46050b40606c656251798a63e3dd/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_cacdded07bf6657cf3d01f3b1b99854ad060a649.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/52ac7a68aae270af1392531e9d1a72b7664fa70e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="70ffe00aaf049893f59d1dad57bd82992faa38ef">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_3657221ccd3e7f56ea9d5f174c1e0aaf729a5b74.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp-urlconnection/3.6.0/3f9b16b774f2c36cfd86dd2053d0b3059531dacc/okhttp-urlconnection-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="3f9b16b774f2c36cfd86dd2053d0b3059531dacc">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/okhttp-urlconnection-3.6.0_5cc069066d0144117f73609079eded4a21a69df9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-fs/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="840db516470773f32ba2e88d0deb1ce2fc0ec5d6">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_f493fa6053d8dccf13263d9257c31683a0804f5c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/50a644916f6cc723f98bcf851f200c94bc78883b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_43f4d31099f496149a12356c2546af32b124789f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_social_shareview.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0eeb67bb98d5ef516c86366f9dd7da90276c375d">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_social_shareview_48a08a076646c10cb1c7ebd4503247f5078f525f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_social_net.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9a2fc3d30ce3cb03014a373b1d5c8b5795334271">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_social_net_4ed3431303765ad7311d1f11cb2b5bc281e56b62.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-fast-image/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2ab1c15634874c2685761789b50d5c2575a46860">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_9893f94de993bcf37a5e4649490f279063c4186e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/b7709af7fecdbebd52759bda06ffefe567c6b856/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_de25485ee227ae9c30a7316611ed3f7e5bb66946.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/libs/umeng-common-1.4.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="147e43ba842606e0d203c2997d4f95d90d76a3aa">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng-common-1.4.1_408713dfe32602b150a475ed2d8169fecd403511.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/SocialSDK_Sina_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="01e9d7608a5af0c13061b6d30579ef00986455cb">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/SocialSDK_Sina_Simplify_bb2db5b248a56066dac72e7b607c77842dee8eba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_shareboard_widget.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bbf940eb41c869970b3ddcf0117e9718f687af71">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_shareboard_widget_2250e762aea687281c8f6f59c74adc38a364d3a3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-base/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-base-1.3.0_9f98a5db7aa0e4077051bfb8dfd5299b4cdc5ba0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-support-v4-23.0.1_755063627b7e16499d4978e56e140bb801db3706.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fbui.textlayoutbuilder/textlayoutbuilder/1.0.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fbui.textlayoutbuilder-textlayoutbuilder-1.0.0_ab966ef5a2303e5dc8f06ecbe8c5b5ac25ce424f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-sqlite-storage/src/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98da825bade1eed0775392c70629c04059dd9324">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_6392b81ee0ac050f220ebbd298184239a466a713.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.soloader/soloader/0.1.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="8f615bca00639150c9eb6175d4b5471193f70794">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.soloader-soloader-0.1.0_a99f24444ff2c9e10444dc83ed8c7f940fc8c612.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/javax.inject-1_d082dc14909ece9d78a55c3d1c2ea134216e75c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/9be15545a9063981604d91878f34712eb7a0f121/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_4fa878d6f61986517dfc8aeae9e168a5471ae4f0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_social_api.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b1143e9e43802adba372e170165d8d90d0ff8d78">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_social_api_2ba8014bf8b8c83168c52df31ffa16046d89696b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/50bd6bb7024bcc5b53a1cf5e86d1f9208a7b1433/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8fe8a8f77d651982ce5e18f6187dc4daf914ac57">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_0d2227f1a345445798271403c6072f14308e505c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fbcore/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fbcore-1.3.0_c771984d3fea4a034fdc09e2ab24c694588e55a1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/@remobile/react-native-zip/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="488f6c924296489c03159760c2e1634637b263b0">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_5c07d7b20239752703a77e0e67f68a9c9a1947bf.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ae5c9691caa62546c2e68e12d17e50d14c327db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/327fe0bdb9cc4510f61578cbba3159844c99102b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="72128af126ddd7d6252da9357fe560d3abcdfb0c">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_f8c6f1b21a5fe838480f8dc5e21d9793ac365179.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_social_shareboard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a13ad9b35bb4d7057d0f3bbacc335ba0ad55f267">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_social_shareboard_bb54c93a128cd6feaa16cd57e17b694fc88f4cee.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/6feae3e35d812a4735be84bc22eb7cf2e1456ea3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f90b593491e4044903f0bbf68dc3fa2790b151b9">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_3697a4970423b11525380ca55d43efdc24509ae0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.google.code.findbugs/jsr305/3.0.0/5871fb60dc68d67da54a663c3fd636a10a532948/jsr305-3.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="5871fb60dc68d67da54a663c3fd636a10a532948">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/jsr305-3.0.0_3c882547cf051a4bd4428b802f45c2ee274126f4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/SocialSDK_WeChat_Simplify.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fedb13cbfab727c73c9b2d91f5f1b8ab9c91980f">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/SocialSDK_WeChat_Simplify_935f412f536cf5c6ced3e8bcbf19e006a5eaa257.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/be77e8c6e28f793a885430141d73419cfc1eeca1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_94d758636ffded365554252e28bb8adc125f1013.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="48c7f54c2515a2312d3a4481d10c43fbb807f3af">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-1.3.0_3f6f4adbf886195b755f7d93eda56928a535797a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-fetch-blob/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="89130388da2ea73dd7ef12caea950c8abab7d44e">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_4cdae2541076ae5fbe1b7685382291b3f06056e4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/glide/3.8.0/9bada650e1afe9c6174ddc0d113c1fce4dc26fe0/glide-3.8.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9bada650e1afe9c6174ddc0d113c1fce4dc26fe0">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/glide-3.8.0_614688160927f2938802da776194822048e374cc.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.github.bumptech.glide/okhttp3-integration/1.5.0/1e5d1f5fb6f867397009e73ea79b108ef6a51fc0/okhttp3-integration-1.5.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="1e5d1f5fb6f867397009e73ea79b108ef6a51fc0">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/okhttp3-integration-1.5.0_f5c8ff78185761ecbb7699abaec4fa9a578c373a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/63458d55100c5feec9acf58fce74e20eeebe3aa1/output/jars/libs/infer-annotations-4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="9809e90be788acdb479b2b44e2112f3295a03068">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/infer-annotations-4.0_95c2a05f7cc21f7496b8dbc70d5f7f59ab030596.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/fresco/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="fe85b87215e405f5917d40ae4960488ac9224b74">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-fresco-1.3.0_b78d34e680caa96c18efb7fb635b9c1e4d26119a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/c3796beae3d769b7a8fac86bcc399ca3773859ab/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="67eb33110dbacb46a48175b08ae0c96761d2c17d">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_e2fbf90551b0cc93960066d64339095040567b26.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/0dfe4b72e7c6a7e4cb793c458634d7ed4611e31b/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="e820b7be8c035dd522da4bc822e8a76c8e27921a">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_338df855b55a8b1e3238ee3d557a0e80184853fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3a59f89eaee342ef9bc48b0ea118e4c7ff5b64f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/1a9651247c58ff5f6970ce1a2e2672d3e6515223/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd282bdeaa904c59d77e57dedd7e0a241c9b679d">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_a72d51d988712e682fbb7c8d15296850666941cb.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.6.0/69edde9fc4b01c9fd51d25b83428837478c27254/okhttp-3.6.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="69edde9fc4b01c9fd51d25b83428837478c27254">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/okhttp-3.6.0_3a59f89eaee342ef9bc48b0ea118e4c7ff5b64f3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-device-info/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="98038972359c20a48b4be81013c1ae698370fd31">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_6195ad382d973fb52d3aec6f02310715f39118d1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/react-native-puti-umeng-share/android/build/intermediates/bundles/default/libs/umeng_social_tool.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="8b17b7c71ac912fb54ad4df2c5d1f3b36ec95837">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/umeng_social_tool_5a3c0a9f6d54ebe690b58f28a7dd0ade65da08f7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/libs/Baidu_MobAds_SDK.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="bc1aed8ec8a8cfc69dc42a8f03615cdf0f23592b">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/Baidu_MobAds_SDK_b663d5c0db6af6a7b6d5a14bc3702578c0147e02.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.react/react-native/0.50.3/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.react-react-native-0.50.3_6dd042f7ec196bdab58e905928e6865b4fa7eb7e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.parse.bolts/bolts-tasks/1.4.0/d85884acf6810a3bbbecb587f239005cbc846dc4/bolts-tasks-1.4.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d85884acf6810a3bbbecb587f239005cbc846dc4">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/bolts-tasks-1.4.0_3eb4716e38c36af994cfeb934b15309b535ed112.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/b36377c78e96dc862ad9845d9d90f41a4785b58e/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d8942ee348aaa9341f08f7e2437063893fe27542">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_1759ff546cad41d576c35ac9af8470b2b34f5c29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/10a995f8f369aea34796c3c43ec75cf895d6a5ef/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_e08424a0b8eabc576760cc5e37eb8f6a83dcd2d5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/drawee/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c65a2e39d54023bac3aef64a2f0cff89289c7ff6">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-drawee-1.3.0_0ed9e1b3130f33efb71db28cb2563ccafaeec0d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.facebook.fresco/imagepipeline-okhttp3/1.3.0/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.facebook.fresco-imagepipeline-okhttp3-1.3.0_ecdb6ce6bec9fdaa0b7b91811e27b5b522f8304c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.0.1/jars/libs/internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/internal_impl-23.0.1_62f3e81456906c6bfebc7102c6f2f2f095483f3b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.facebook.fbui.textlayoutbuilder/staticlayout-proxy/1.0/f162442a19fff13995fbd51ba414d9ee05579080/staticlayout-proxy-1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="f162442a19fff13995fbd51ba414d9ee05579080">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/staticlayout-proxy-1.0_04d004389179e9e40a23b23e1388da712ce9c796.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/80f5c033f3a364f401f883e663e25a2d73b5a8f3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="c03c08c9934b23c8c09c803345ec51a74119127b">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_5865328d378f395d9896eaf6047efae1d9e3b1a2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/node_modules/@remobile/react-native-cordova/android/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0ac14ee932421c7c2b23337ebe785a4fcdd3a98e">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_afbf66aaf62e6e84aac3ac26bc47336040a5b676.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/81126fa4e02ded05e3f371304940dcd9ad730db3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="37345de2ed2772f385eaeec37a9c2ff0fea99ad7">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_69e6fae71f6620d9ea8b76cdf2d18b54f98e67a9.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/c243a23c692cfb8b97bb0fa380f4fa54a18bc0c3/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_321b4043aa7cdb569c86cacc740eb3443e010eb0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/push/build/intermediates/bundles/default/libs/alicloud-android-utils-1.0.3.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd36f6aa51a8d5dffdd913625edc859b360252ce">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/alicloud-android-utils-1.0.3_7c82b71d39d3a04ab75283f63f8ecbf443d41bdd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.13.0/a9283170b7305c8d92d25aff02a6ab7e45d06cbe/okio-1.13.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a9283170b7305c8d92d25aff02a6ab7e45d06cbe">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/okio-1.13.0_ae5c9691caa62546c2e68e12d17e50d14c327db5.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/libs/utdid4all-1.1.5.3_proguard.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="989c3bb13060da1e3154bfe00236f76453a2725f">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/utdid4all-1.1.5.3_proguard_d1f5a82da0c82cd77c1b47640cab1ff91c97de52.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/push/build/intermediates/bundles/default/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a908a9ecf77c0bb9ef606b0aa7a0c0dc0612eb02">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_aacd4ce1226b0c4e8a306a31d085d25fc9850b7c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/.android/build-cache/63458d55100c5feec9acf58fce74e20eeebe3aa1/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="24303e5ddb2c1210dd7e8db9dbab018f50313e48">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/classes_1af5b094081b2ca21e8d77e3c197dde20377a0fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.0.1/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.1"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="/Users/admin/LBWspace/ReactNative/NewRn/ReactTest/android/app/build/intermediates/pre-dexed/debug/com.android.support-appcompat-v7-23.0.1_5b0ae5f96319dc7c1abef4dee29410dcedeb7199.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="/Users/admin/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/25.2.0/support-annotations-25.2.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4a5a82a027706397fff621b22fd6fa796e91d7c5">
+        <dex dex="/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/pre-dexed/debug/support-annotations-25.2.0_4f6837e1468c5ffbd3e8991e413d4c464c566c21.jar" />
+    </item>
+
+</items>

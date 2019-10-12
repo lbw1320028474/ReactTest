@@ -1,0 +1,68 @@
+{
+  "_args": [
+    [
+      "react-native-largelist@1.1.0",
+      "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest"
+    ]
+  ],
+  "_from": "react-native-largelist@1.1.0",
+  "_id": "react-native-largelist@1.1.0",
+  "_inBundle": false,
+  "_integrity": "sha1-JX/SR1d4hZWeeJRVXZ3hU961xv4=",
+  "_location": "/react-native-largelist",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-largelist@1.1.0",
+    "name": "react-native-largelist",
+    "escapedName": "react-native-largelist",
+    "rawSpec": "1.1.0",
+    "saveSpec": null,
+    "fetchSpec": "1.1.0"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-largelist/download/react-native-largelist-1.1.0.tgz",
+  "_spec": "1.1.0",
+  "_where": "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest",
+  "author": {
+    "name": "bolan9999",
+    "email": "bolan999999@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/bolan9999/react-native-largelist/issues"
+  },
+  "dependencies": {
+    "prop-types": "^15.6.0"
+  },
+  "description": "A high performance large list component which is much better than SectionList for React Native.",
+  "devDependencies": {
+    "babel-jest": "21.2.0",
+    "babel-preset-react-native": "4.0.0",
+    "jest": "21.2.1",
+    "react-test-renderer": "16.0.0-beta.5"
+  },
+  "homepage": "https://github.com/bolan9999/react-native-largelist",
+  "jest": {
+    "preset": "react-native"
+  },
+  "keywords": [
+    "react-native",
+    "react-component",
+    "large list",
+    "flatlist",
+    "sectionlist",
+    "tableview",
+    "high performance"
+  ],
+  "license": "MIT",
+  "name": "react-native-largelist",
+  "private": false,
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/bolan9999/react-native-largelist.git"
+  },
+  "version": "1.1.0"
+}

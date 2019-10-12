@@ -1,0 +1,1398 @@
+{
+  "navi": {
+    "naviId": 2,
+    "naviName": "书库",
+    "naviType": 2,
+    "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/tab_bookroom_normal.png",
+    "iconClickPicUrl": "http://p003bt12y.bkt.clouddn.com/tab_bookroom_selected.png",
+    "modules": [
+      {
+        "moduleId": 1,
+        "moduleName": "banner",
+        "moduleType": 1,
+        "groups": [
+          {
+            "groupId": 1,
+            "groupName": "banner1",
+            "groupType": 1,
+            "iconPicUrl": "http://img-tailor.11222.cn/pm/book/operate/2017051514220984.jpg",
+            "clickUrl": "http://yunqi.qq.com/bk/ns/15135756.html",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "banner2",
+            "groupType": 2,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/banner2.png",
+            "clickUrl": "http://wap.faloo.com",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "banner3",
+            "groupType": 1,
+            "clickUrl": "http://yunqi.qq.com/bk/ns/15135756.html",
+            "iconPicUrl": "http://img1.chuangshi.qq.com/upload/cmsv2/1510104333.jpg",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "moduleId": 2,
+        "moduleName": "模块入口",
+        "moduleType": 2,
+        "groups": [
+          {
+            "groupId": 1,
+            "groupName": "总排行被",
+            "groupType": 1,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/model_entry_main_rank.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "recommend":"黑沉沉的夜,仿佛无边的浓墨重重地涂抹在天际,连星星的微光也没有",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "月排行被",
+            "groupType": 1,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/model_entry_rank.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "recommend":"黑沉沉的夜,仿佛无边的浓墨重重地涂抹在天际,连星星的微光也没有",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "总收藏榜",
+            "groupType": 1,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/model_entry_favoraty.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "总完结榜",
+            "groupType": 1,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/model_entry_over.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "分类",
+            "groupType": 1,
+            "iconPicUrl": "http://p003bt12y.bkt.clouddn.com/model_entry_type.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "moduleId": 1,
+        "moduleName": "列表模块",
+        "moduleType": 3,
+        "groups": [
+          {
+            "groupId": 1,
+            "groupName": "主编力荐",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://img-tailor.11222.cn/ognv/cover/raw/1484655994125358.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "网站精选",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "热门推荐",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "青春文学",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "原创精选",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "男频精选",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "女频精选",
+            "groupType": 1,
+            "iconPicUrl": "",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "铸梦2005",
+                "authorName": "耶义",
+                "categoryName": "都市言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "云霄之君临天下",
+                "authorName": "无产者",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/216/cover_d102adb30bc185427775b7ba16991ef2.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "三国之惧内王爷",
+                "authorName": "爱辣吃不辣",
+                "categoryName": "悬疑灵异",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "狼牙特战队",
+                "authorName": "钟表",
+                "categoryName": "战争",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙武封神",
+                "authorName": "如狼似虎",
+                "categoryName": "玄幻",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "仙道女配逆袭记",
+                "authorName": "秦青词",
+                "categoryName": "幻想言情",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+              },
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "宅男复仇记：相逢一笑两",
+                "authorName": "凉茶CS",
+                "categoryName": "浪漫青春",
+                "icon": "http://vipbook.sinaedge.com/bookcover/pics/128/cover_e6170913d35b9d2378ccaa314ebda21a.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "msgCode": 200
+}

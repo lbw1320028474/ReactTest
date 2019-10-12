@@ -1,0 +1,72 @@
+React-native bundle --entry-file index.js --bundle-output ./android/app/src/main/assets/index.android.bundle --platform android --assets-dest ./android/app/src/main/res/ --dev false
+
+react-native bundle --entry-file index.js --platform ios --dev false --bundle-output ./ios/ReactTest/main.jsbundle --assets-dest ./ios/ReactTest/
+
+坑人点
+1：原生模块很容易重复，如果出现模块重复，需要手动删除多余资源
+
+1:动画组件：ios需要在Xcode导包
+2：
+//解决快速点击多次跳转的问题
+
+export default function<S: *>(navigation: NavigationProp<S, NavigationAction>) {
+  // 添加点击判断
+  let debounce = true;
+  return {
+      ...navigation,
+      goBack: (key?: ?string): boolean =>
+          navigation.dispatch(
+              NavigationActions.back({
+                  key: key === undefined ? navigation.state.key : key,
+              }),
+          ),
+      navigate: (routeName: string,
+                 params?: NavigationParams,
+                 action?: NavigationAction,): boolean => {
+          if (debounce) {
+              debounce = false;
+              navigation.dispatch(
+                  NavigationActions.navigate({
+                      routeName,
+                      params,
+                      action,
+                  }),
+              );
+              setTimeout(
+                  () => {
+                      debounce = true;
+                  },
+              500,
+              );
+              return true;
+          }
+          return false;
+      },
+    /**
+     * For updating current route params. For example the nav bar title and
+     * buttons are based on the route params.
+     * This means `setParams` can be used to update nav bar for example.
+     */
+    setParams: (params: NavigationParams): boolean =>
+      navigation.dispatch(
+        NavigationActions.setParams({
+          params,
+          key: navigation.state.key,
+        }),
+      ),
+  };
+}
+
+
+作者：挂着铃铛的兔
+链接：http://www.jianshu.com/p/2f575cc35780
+來源：简书
+著作权归作者所有。商业转载请联系作者获得授权，非商业转载请注明出处。
+
+
+npm install react-native-puti-umeng-share --save    分享登录
+npm install react-native-storage –save          //持久化存储
+
+Error:A problem occurred configuring project ':app'.
+> Could not resolve all dependencies for configuration ':app:_debugApk'.
+   > Project :app declares a dependency from configuration 'compile' to configuration 'default' which is not declared in the descriptor for project :react-native-deviceinfo.

@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/app_jscode_components_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-xxxhdpi/app_jscode_components_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-xxxhdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-xxxhdpi/novel_noveljs_othercomponent_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-xxxhdpi/novel_noveljs_othercomponent_reactnavigation_src_views_assets_backicon.png"
+    }
+]

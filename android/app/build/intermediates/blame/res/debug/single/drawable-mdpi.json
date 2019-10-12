@@ -1,0 +1,698 @@
+[
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_huyan.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_huyan.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_seekbar_thum.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_seekbar_thum.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_menu_yanjie.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_menu_yanjie.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_book_count_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_book_count_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_03_preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_03_preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_verify_code.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_verify_code.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_huyan_line_space_mid_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_huyan_line_space_mid_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_01.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_01.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_new_tip.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_new_tip.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_06.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_06.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_search_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_search_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_huyan_light_small.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_huyan_light_small.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_des_close.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_des_close.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_hascatch_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_hascatch_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_textsize.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_textsize.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_search_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_search_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_05.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_05.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_bookroom_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_bookroom_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_model_entry_rank.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_model_entry_rank.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_reglogin_user_male.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_reglogin_user_male.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_list_type_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_list_type_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_no_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_no_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_04.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_04.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_chapter_new_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_chapter_new_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_category_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_category_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_success.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_success.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_indeterminate_check_box.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_textinput_clean.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_textinput_clean.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookcase_updata.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookcase_updata.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_loading_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_loading_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_huyan_light_big.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_huyan_light_big.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_menu_chapter_list.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_menu_chapter_list.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_01__preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_01__preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_loading_page.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_loading_page.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_nobook_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_nobook_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_search_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_search_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_reglogin_user_male.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_reglogin_user_male.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/textinput_clean.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/textinput_clean.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_reglogin_password.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_reglogin_password.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_02.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_02.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_model_entry_over.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_model_entry_over.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_search_log_delete.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_search_log_delete.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_04_preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_04_preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_list_new_tag_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_list_new_tag_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_check_box_outline_blank.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box_outline_blank.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_02_preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_02_preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookcase_addbook.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookcase_addbook.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_read_log_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_read_log_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_03.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_03.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_model_entry_favoraty.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_model_entry_favoraty.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_textsize_jian.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_textsize_jian.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_06_preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_06_preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_menu_setting.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_menu_setting.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookcase_search_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookcase_search_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_bookcase_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_bookcase_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_my_to_next.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_my_to_next.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_my_normal_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_my_normal_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_item_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_item_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_text_tobig.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_text_tobig.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_bookcase_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_bookcase_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_category_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_category_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookcasenocase.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookcasenocase.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_toright_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_toright_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_menu.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_menu.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_checkbox_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_checkbox_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_rank_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_rank_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_about_we.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_about_we.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_cover_test_bg.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_cover_test_bg.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_textline_mid.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_textline_mid.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_menu_huyang.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_menu_huyang.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_light_tobig.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_light_tobig.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_list_addbook.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_list_addbook.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_power.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_power.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_app_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_app_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_back_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_back_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_aboutme.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_aboutme.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_noveljs_othercomponent_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_noveljs_othercomponent_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_bookroom_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_bookroom_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_clean_catch.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_clean_catch.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_huyan_line_space_small.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_huyan_line_space_small.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_linespace_small_select.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_linespace_small_select.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_back_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_back_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookinfo_markimage.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookinfo_markimage.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_logo_wechat.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_logo_wechat.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_05_preview.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_05_preview.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_des_open.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_des_open.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_personal_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_personal_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnativerouterflux_images_menu_burger.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_menu_burger.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_feedback.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_feedback.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_rank.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_rank.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_text_tosmall.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_text_tosmall.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_bookroom_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_bookroom_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_my_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_my_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_item_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_item_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_yejian.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_yejian.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_bookcase_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_bookcase_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_smile.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_smile.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_textline_big.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_textline_big.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_check_box.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_reactnativecheckbox_img_ic_check_box.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_scroll_bg.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_scroll_bg.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_ting.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_ting.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_cicle_mark.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_cicle_mark.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnavigation_src_views_assets_backicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_textline_small.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_textline_small.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnativerouterflux_images_back_chevron.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnativerouterflux_images_back_chevron.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_my_page_noload_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_my_page_noload_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_search_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_search_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_model_entry_main_rank.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_model_entry_main_rank.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_reglogin_password.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_reglogin_password.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_bookmenu_tagicon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_bookmenu_tagicon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_huyan_line_space_big_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_huyan_line_space_big_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_app_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_app_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_to_right_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_to_right_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_sad.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_sad.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_more_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_more_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_bookinfo_markimage.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_bookinfo_markimage.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_shadow.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_shadow.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_coin.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_coin.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_setting_light_tosmall.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_setting_light_tosmall.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_list_group_more.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_list_group_more.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_bg_3_preview_normal9.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_bg_3_preview_normal9.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_page_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_page_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_collected_bg.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_collected_bg.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_network_iserror.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_network_iserror.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_verify_code.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_verify_code.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_to_next_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_to_next_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_model_entry_type.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_model_entry_type.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_personal_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_personal_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_logo_qq.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_logo_qq.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_huanyuan.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_huanyuan.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bookcover_shadow.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bookcover_shadow.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_room_author.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_room_author.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_logo_qq.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_logo_qq.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_icon_share.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_icon_share.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_feedback.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_feedback.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_author_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_author_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_cover_loaded.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_cover_loaded.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_logo_sinaweibo.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_rank_03.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_rank_03.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_coverlist_addbook.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_coverlist_addbook.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_list_item_shadow.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_list_item_shadow.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_list_type_list.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_list_type_list.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_menu_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_menu_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_bg_02.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_bg_02.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_logo_wechat.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_logo_wechat.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_page_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_page_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_bookroom_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_bookroom_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_book_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_book_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_bookcover_shadow.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_bookcover_shadow.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_banner_bottom_image.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_banner_bottom_image.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_error_tip_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_error_tip_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_fail.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_fail.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_open_by_web.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_open_by_web.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_stop.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_stop.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_read_log_delete.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_read_log_delete.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_share_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_share_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_tab_rank_normal.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_tab_rank_normal.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_tab_bookcase_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_tab_bookcase_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/node_modules_reactnativecheckbox_img_ic_indeterminate_check_box.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_checkbox_selected.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_checkbox_selected.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_catch_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_catch_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_loading_cover_prev.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_loading_cover_prev.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_textinput_clean.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_textinput_clean.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_my_page_loaded_cover.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_my_page_loaded_cover.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_read_page_textsize_add.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_read_page_textsize_add.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_logo_sinaweibo.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_logo_sinaweibo.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_resource_chapter_new_icon.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_resource_chapter_new_icon.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/app_jscode_components_teaset_icons_info.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/app_jscode_components_teaset_icons_info.png"
+    },
+    {
+        "merged": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/build/intermediates/res/merged/debug/drawable-mdpi/novel_novelresource_personal_setting.png",
+        "source": "/Users/admin/LBWspace/ReactNative/ReactTest/ReactTest/android/app/src/main/res/drawable-mdpi/novel_novelresource_personal_setting.png"
+    }
+]

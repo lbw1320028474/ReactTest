@@ -1,0 +1,49 @@
+{
+  "_args": [
+    [
+      "react-native-puti-umeng-share@1.1.2",
+      "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest"
+    ]
+  ],
+  "_from": "react-native-puti-umeng-share@1.1.2",
+  "_id": "react-native-puti-umeng-share@1.1.2",
+  "_inBundle": false,
+  "_integrity": "sha1-6e3032bL2I3JX07juamhNHRXSqs=",
+  "_location": "/react-native-puti-umeng-share",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-puti-umeng-share@1.1.2",
+    "name": "react-native-puti-umeng-share",
+    "escapedName": "react-native-puti-umeng-share",
+    "rawSpec": "1.1.2",
+    "saveSpec": null,
+    "fetchSpec": "1.1.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-puti-umeng-share/download/react-native-puti-umeng-share-1.1.2.tgz",
+  "_spec": "1.1.2",
+  "_where": "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest",
+  "author": {
+    "name": "菩提"
+  },
+  "bugs": {
+    "url": "https://github.com/puti94/react-native-umeng-share/issues"
+  },
+  "description": "友盟分享登录的react-native android模块，仅集成qq,微信,新浪微博,需要其它的自行参照代码集成。",
+  "homepage": "https://github.com/puti94/react-native-umeng-share#readme",
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-puti-umeng-share",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/puti94/react-native-umeng-share.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.2"
+}

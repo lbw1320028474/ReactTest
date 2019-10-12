@@ -1,0 +1,523 @@
+{
+  "navi": {
+    "naviId": 2,
+    "naviName": "分类",
+    "naviType": 4,
+    "iconPicUrl": "http://charge.mo-sky.cn:10206/push-download/group1/M01/1F/84/rBADlVpGCvOAJ0MXAAALQfExsrI580.png",
+    "iconClickPicUrl": "http://charge.mo-sky.cn:10206/push-download/group1/M01/1F/84/rBADlVpGCvOAJ0MXAAALQfExsrI580.png",
+    "modules": [
+      {
+        "moduleId": 1,
+        "moduleName": "模块1",
+        "moduleType": 3,
+        "groups": [
+          {
+            "groupId": 1,
+            "groupName": "组1",
+            "groupType": 1,
+            "iconPicUrl": "http://charge.mo-sky.cn:10206/push-download/group1/M01/1F/83/rBADlVpCAh-AdcaZAAAQLYLCjSc983.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              },
+              {
+                "id": 1,
+                "bookId": "8504435",
+                "bookName": "征服游戏：野性小妻难驯服",
+                "authorName": "公子如雪",
+                "categoryName": "现代言情",
+                "icon": "http://www.yqzww.com/files/article/image/4/4435/4435s.jpg"
+              },
+              {
+                "id": 33,
+                "bookId": "84043625",
+                "bookName": "儒武争锋",
+                "authorName": "情殇孤月",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/43625.jpg"
+              },
+              {
+                "id": 32,
+                "bookId": "840176916",
+                "bookName": "冰与火之凛冬已至",
+                "authorName": "窄海",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176916.jpg"
+              },
+              {
+                "id": 31,
+                "bookId": "840146587",
+                "bookName": "五神天尊",
+                "authorName": "第一人",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/146587.jpg"
+              },
+              {
+                "id": 30,
+                "bookId": "840153937",
+                "bookName": "掀起变革的魔法师",
+                "authorName": "天空之冀",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153937.jpg"
+              },
+              {
+                "id": 29,
+                "bookId": "840149898",
+                "bookName": "丹帝至尊",
+                "authorName": "沧海乘风",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149898.jpg"
+              },
+              {
+                "id": 28,
+                "bookId": "84050247",
+                "bookName": "法师战纪",
+                "authorName": "时光沙粒",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/50247.jpg"
+              },
+              {
+                "id": 27,
+                "bookId": "840167499",
+                "bookName": "极品傀儡系统",
+                "authorName": "小鹰的传说",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/167499.jpg"
+              },
+              {
+                "id": 26,
+                "bookId": "840173737",
+                "bookName": "万道龙神",
+                "authorName": "离剑天涯",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/173737.jpg"
+              },
+              {
+                "id": 25,
+                "bookId": "840131161",
+                "bookName": "NBA万界商城",
+                "authorName": "远古莱德",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/131161.jpg"
+              },
+              {
+                "id": 24,
+                "bookId": "840176592",
+                "bookName": "美漫世界霸王轨迹",
+                "authorName": "驿路羁旅",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176592.jpg"
+              },
+              {
+                "id": 23,
+                "bookId": "840179177",
+                "bookName": "斗战武神",
+                "authorName": "爱吃苹果的猴子",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/179177.jpg"
+              },
+              {
+                "id": 22,
+                "bookId": "84062727",
+                "bookName": "烽皇",
+                "authorName": "瑞根",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/62727.jpg"
+              },
+              {
+                "id": 21,
+                "bookId": "840149874",
+                "bookName": "蜀山剑宗系统",
+                "authorName": "阳君",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149874.jpg"
+              },
+              {
+                "id": 20,
+                "bookId": "840187778",
+                "bookName": "为了仙界的和平",
+                "authorName": "Anecdotes",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/187778.jpg"
+              },
+              {
+                "id": 19,
+                "bookId": "840188694",
+                "bookName": "烈阳神尊",
+                "authorName": "金沙未扬",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/188694.jpg"
+              },
+              {
+                "id": 18,
+                "bookId": "840190446",
+                "bookName": "宇宙战将在仙侠",
+                "authorName": "究竟涅磐",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190446.jpg"
+              },
+              {
+                "id": 17,
+                "bookId": "840190230",
+                "bookName": "升级我靠黑科技",
+                "authorName": "大凉皮",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190230.jpg"
+              },
+              {
+                "id": 16,
+                "bookId": "840153240",
+                "bookName": "无上崛起",
+                "authorName": "宝石猫",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153240.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "组1",
+            "groupType": 1,
+            "iconPicUrl": "http://charge.mo-sky.cn:10206/push-download/group1/M01/1F/83/rBADlVpCAh-AdcaZAAAQLYLCjSc983.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              },
+              {
+                "id": 1,
+                "bookId": "8504435",
+                "bookName": "征服游戏：野性小妻难驯服",
+                "authorName": "公子如雪",
+                "categoryName": "现代言情",
+                "icon": "http://www.yqzww.com/files/article/image/4/4435/4435s.jpg"
+              },
+              {
+                "id": 33,
+                "bookId": "84043625",
+                "bookName": "儒武争锋",
+                "authorName": "情殇孤月",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/43625.jpg"
+              },
+              {
+                "id": 32,
+                "bookId": "840176916",
+                "bookName": "冰与火之凛冬已至",
+                "authorName": "窄海",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176916.jpg"
+              },
+              {
+                "id": 31,
+                "bookId": "840146587",
+                "bookName": "五神天尊",
+                "authorName": "第一人",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/146587.jpg"
+              },
+              {
+                "id": 30,
+                "bookId": "840153937",
+                "bookName": "掀起变革的魔法师",
+                "authorName": "天空之冀",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153937.jpg"
+              },
+              {
+                "id": 29,
+                "bookId": "840149898",
+                "bookName": "丹帝至尊",
+                "authorName": "沧海乘风",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149898.jpg"
+              },
+              {
+                "id": 28,
+                "bookId": "84050247",
+                "bookName": "法师战纪",
+                "authorName": "时光沙粒",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/50247.jpg"
+              },
+              {
+                "id": 27,
+                "bookId": "840167499",
+                "bookName": "极品傀儡系统",
+                "authorName": "小鹰的传说",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/167499.jpg"
+              },
+              {
+                "id": 26,
+                "bookId": "840173737",
+                "bookName": "万道龙神",
+                "authorName": "离剑天涯",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/173737.jpg"
+              },
+              {
+                "id": 25,
+                "bookId": "840131161",
+                "bookName": "NBA万界商城",
+                "authorName": "远古莱德",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/131161.jpg"
+              },
+              {
+                "id": 24,
+                "bookId": "840176592",
+                "bookName": "美漫世界霸王轨迹",
+                "authorName": "驿路羁旅",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176592.jpg"
+              },
+              {
+                "id": 23,
+                "bookId": "840179177",
+                "bookName": "斗战武神",
+                "authorName": "爱吃苹果的猴子",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/179177.jpg"
+              },
+              {
+                "id": 22,
+                "bookId": "84062727",
+                "bookName": "烽皇",
+                "authorName": "瑞根",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/62727.jpg"
+              },
+              {
+                "id": 21,
+                "bookId": "840149874",
+                "bookName": "蜀山剑宗系统",
+                "authorName": "阳君",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149874.jpg"
+              },
+              {
+                "id": 20,
+                "bookId": "840187778",
+                "bookName": "为了仙界的和平",
+                "authorName": "Anecdotes",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/187778.jpg"
+              },
+              {
+                "id": 19,
+                "bookId": "840188694",
+                "bookName": "烈阳神尊",
+                "authorName": "金沙未扬",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/188694.jpg"
+              },
+              {
+                "id": 18,
+                "bookId": "840190446",
+                "bookName": "宇宙战将在仙侠",
+                "authorName": "究竟涅磐",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190446.jpg"
+              },
+              {
+                "id": 17,
+                "bookId": "840190230",
+                "bookName": "升级我靠黑科技",
+                "authorName": "大凉皮",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190230.jpg"
+              },
+              {
+                "id": 16,
+                "bookId": "840153240",
+                "bookName": "无上崛起",
+                "authorName": "宝石猫",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153240.jpg"
+              }
+            ]
+          },
+          {
+            "groupId": 1,
+            "groupName": "组1",
+            "groupType": 1,
+            "iconPicUrl": "http://charge.mo-sky.cn:10206/push-download/group1/M01/1F/83/rBADlVpCAh-AdcaZAAAQLYLCjSc983.png",
+            "books": [
+              {
+                "id": 2,
+                "bookId": "8502964",
+                "bookName": "惊世毒妃：轻狂大小姐",
+                "authorName": "白天",
+                "categoryName": "古代言情",
+                "icon": "http://www.yqzww.com/files/article/image/2/2964/2964s.jpg"
+              },
+              {
+                "id": 1,
+                "bookId": "8504435",
+                "bookName": "征服游戏：野性小妻难驯服",
+                "authorName": "公子如雪",
+                "categoryName": "现代言情",
+                "icon": "http://www.yqzww.com/files/article/image/4/4435/4435s.jpg"
+              },
+              {
+                "id": 33,
+                "bookId": "84043625",
+                "bookName": "儒武争锋",
+                "authorName": "情殇孤月",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/43625.jpg"
+              },
+              {
+                "id": 32,
+                "bookId": "840176916",
+                "bookName": "冰与火之凛冬已至",
+                "authorName": "窄海",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176916.jpg"
+              },
+              {
+                "id": 31,
+                "bookId": "840146587",
+                "bookName": "五神天尊",
+                "authorName": "第一人",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/146587.jpg"
+              },
+              {
+                "id": 30,
+                "bookId": "840153937",
+                "bookName": "掀起变革的魔法师",
+                "authorName": "天空之冀",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153937.jpg"
+              },
+              {
+                "id": 29,
+                "bookId": "840149898",
+                "bookName": "丹帝至尊",
+                "authorName": "沧海乘风",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149898.jpg"
+              },
+              {
+                "id": 28,
+                "bookId": "84050247",
+                "bookName": "法师战纪",
+                "authorName": "时光沙粒",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/50247.jpg"
+              },
+              {
+                "id": 27,
+                "bookId": "840167499",
+                "bookName": "极品傀儡系统",
+                "authorName": "小鹰的传说",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/167499.jpg"
+              },
+              {
+                "id": 26,
+                "bookId": "840173737",
+                "bookName": "万道龙神",
+                "authorName": "离剑天涯",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/173737.jpg"
+              },
+              {
+                "id": 25,
+                "bookId": "840131161",
+                "bookName": "NBA万界商城",
+                "authorName": "远古莱德",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/131161.jpg"
+              },
+              {
+                "id": 24,
+                "bookId": "840176592",
+                "bookName": "美漫世界霸王轨迹",
+                "authorName": "驿路羁旅",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/176592.jpg"
+              },
+              {
+                "id": 23,
+                "bookId": "840179177",
+                "bookName": "斗战武神",
+                "authorName": "爱吃苹果的猴子",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/179177.jpg"
+              },
+              {
+                "id": 22,
+                "bookId": "84062727",
+                "bookName": "烽皇",
+                "authorName": "瑞根",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/62727.jpg"
+              },
+              {
+                "id": 21,
+                "bookId": "840149874",
+                "bookName": "蜀山剑宗系统",
+                "authorName": "阳君",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/149874.jpg"
+              },
+              {
+                "id": 20,
+                "bookId": "840187778",
+                "bookName": "为了仙界的和平",
+                "authorName": "Anecdotes",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/187778.jpg"
+              },
+              {
+                "id": 19,
+                "bookId": "840188694",
+                "bookName": "烈阳神尊",
+                "authorName": "金沙未扬",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/188694.jpg"
+              },
+              {
+                "id": 18,
+                "bookId": "840190446",
+                "bookName": "宇宙战将在仙侠",
+                "authorName": "究竟涅磐",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190446.jpg"
+              },
+              {
+                "id": 17,
+                "bookId": "840190230",
+                "bookName": "升级我靠黑科技",
+                "authorName": "大凉皮",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/190230.jpg"
+              },
+              {
+                "id": 16,
+                "bookId": "840153240",
+                "bookName": "无上崛起",
+                "authorName": "宝石猫",
+                "categoryName": "玄幻魔法",
+                "icon": "http://www.bookbl.com/bookcover/153240.jpg"
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  "msgCode": 200
+}

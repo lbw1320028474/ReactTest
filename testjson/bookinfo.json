@@ -1,0 +1,54 @@
+{
+    "code": 1,
+    "message": "ok",
+    "data": {
+        "_id": "53115e30173bfacb4904897e",
+        "author": "烟雨江南",
+        "cover": "/agent/http%3A%2F%2Fimg.1391.com%2Fapi%2Fv1%2Fbookcenter%2Fcover%2F1%2F683452%2F_683452_259086.jpg%2F",
+        "creater": "Xiaomi MI 2A",
+        "longIntro": "千夜自困苦中崛起，在背叛中坠落。自此一个人，一把枪，行在永夜与黎明之间，却走出一段传奇。若永夜注定是他的命运，那他也要成为主宰的王。",
+        "title": "永夜君王",
+        "majorCate": "玄幻",
+        "minorCate": "异界大陆",
+        "rating": {
+            "count": 4283,
+            "score": 8.999,
+            "isEffect": true
+        },
+        "hasCopyright": true,
+        "buytype": 0,
+        "sizetype": -1,
+        "superscript": "",
+        "currency": 0,
+        "contentType": "txt",
+        "_le": false,
+        "allowMonthly": true,
+        "allowVoucher": true,
+        "allowBeanVoucher": true,
+        "hasCp": true,
+        "postCount": 23737,
+        "latelyFollower": 69154,
+        "followerCount": 2358,
+        "wordCount": 4156209,
+        "serializeWordCount": 3386,
+        "retentionRatio": "59.16",
+        "updated": "2017-12-14T16:00:06.371Z",
+        "isSerial": true,
+        "chaptersCount": 1222,
+        "lastChapter": "永夜之王旗飞扬 章三十七 白骨之谜",
+        "gender": [
+            "male"
+        ],
+        "tags": [
+            "奇幻",
+            "奇幻玄幻",
+            "异世大陆",
+            "领主贵族"
+        ],
+        "advertRead": true,
+        "cat": "异界大陆",
+        "donate": false,
+        "_gg": false,
+        "discount": null
+    }
+}

@@ -1,0 +1,56 @@
+{
+  "_from": "react-native-ptr-control",
+  "_id": "react-native-ptr-control@1.1.1",
+  "_inBundle": false,
+  "_integrity": "sha1-3K1tUWTxGdTYpF38AGyXlqtKj7I=",
+  "_location": "/react-native-ptr-control",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "tag",
+    "registry": true,
+    "raw": "react-native-ptr-control",
+    "name": "react-native-ptr-control",
+    "escapedName": "react-native-ptr-control",
+    "rawSpec": "",
+    "saveSpec": null,
+    "fetchSpec": "latest"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "http://registry.npm.taobao.org/react-native-ptr-control/download/react-native-ptr-control-1.1.1.tgz",
+  "_shasum": "dcad6d5164f119d4d8a45dfc006c9796ab4a8fb2",
+  "_spec": "react-native-ptr-control",
+  "_where": "/Users/xuxiaolei/SVNSpace/SRC/client/trunk/歪歪小说重构2/ReactTest",
+  "author": {
+    "name": "woowalker"
+  },
+  "bugs": {
+    "url": "https://github.com/woowalker/react-native-ptr-control/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "prop-types": "^15.5.7"
+  },
+  "deprecated": false,
+  "description": "react native pull to refresh and pull-up load more component, supported custom refresh and load more component",
+  "homepage": "https://github.com/woowalker/react-native-ptr-control#readme",
+  "keywords": [
+    "react-native",
+    "pull-to-refresh",
+    "scrollview",
+    "listview"
+  ],
+  "license": "ISC",
+  "main": "index.js",
+  "name": "react-native-ptr-control",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/woowalker/react-native-ptr-control.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "1.1.1"
+}

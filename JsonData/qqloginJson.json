@@ -1,0 +1,78 @@
+{
+  "expiration": "1521940985818",
+  "uid": "7668C7200741CE2EF73B5D4FD88C4CD2",
+  "profile_image_url": "http://q.qlogo.cn/qqapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/100",
+  "openid": "7668C7200741CE2EF73B5D4FD88C4CD2",
+  "unionid": "UID_E001EF3EC686DD5278864ED398FA4F8A",
+  "name": "word文子先生",
+  "iconurl": "http://q.qlogo.cn/qqapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/100",
+  "vip": "0",
+  "is_yellow_vip": "0",
+  "screen_name": "word文子先生",
+  "yellow_vip_level": "0",
+  "msg": "",
+  "ret": "0",
+  "province": "浙江",
+  "accessToken": "7B172593A5787B0E922FA6E177A0690D",
+  "city": "杭州",
+  "level": "0",
+  "gender": "男",
+  "expires_in": "1521940985818",
+  "access_token": "7B172593A5787B0E922FA6E177A0690D",
+  "is_yellow_year_vip": "0"
+}
+
+     
+// {
+//   "iconurl": "https://q.qlogo.cn/qqapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/100",
+//   "originalResponse": {
+//     "figureurl_qq_2": "http://q.qlogo.cn/qqapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/100",
+//     "nickname": "word文子先生",
+//     "figureurl_2": "http://qzapp.qlogo.cn/qzapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/100",
+//     "city": "杭州",
+//     "vip": "0",
+//     "figureurl_1": "http://qzapp.qlogo.cn/qzapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/50",
+//     "figureurl_qq_1": "http://q.qlogo.cn/qqapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/40",
+//     "is_yellow_vip": "0",
+//     "is_lost": 0,
+//     "province": "浙江",
+//     "ret": 0,
+//     "is_yellow_year_vip": "0",
+//     "msg": "",
+//     "yellow_vip_level": "0",
+//     "figureurl": "http://qzapp.qlogo.cn/qzapp/1105690198/7668C7200741CE2EF73B5D4FD88C4CD2/30",
+//     "gender": "男",
+//     "level": "0"
+//   },
+//   "uid": "7668C7200741CE2EF73B5D4FD88C4CD2",
+//   "openid": "7668C7200741CE2EF73B5D4FD88C4CD2",
+//   "accessToken": "7B172593A5787B0E922FA6E177A0690D",
+//   "unionId": "UID_E001EF3EC686DD5278864ED398FA4F8A",
+//   "unionGender": "男",
+//   "name": "word文子先生",
+//   "expiration": null
+// }
+
+{
+  "openid": "ourHYv2zgDc_otRUvS0A2Wclg3zs",
+  "uid": "oYYMav_uwuAJpC7p45QYaFprrfWY",
+  "iconurl": "https://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIuibgkN6omogQYbe2Gq9V4E8bFPD8dlER6QiavAdgLzw8uViaKtlLiat2eJHibyT8vXPicst1kYjBaMDBg/132",
+  "unionId": "oYYMav_uwuAJpC7p45QYaFprrfWY",
+  "expiration": null,
+  "refreshToken": "6_R_YI9uyDRx5IjMvobkBcJ0l8SsldfP2ZbAFqccvx6RZAbfdEesaE6AG49iZl_kovirg0X6XP4ZryNPNatfjspKHF6OGTPSNJVyoKgCQbK4g",
+  "accessToken": "6_UXD0u7T6xHrtlP5axOuztMd1ALZkZ01I3fMrnieAArSXXWR47Ncn-LYx96114Sz5MhSITp4yjYYBt9M3H30vvdz90X3juog5t1_bJkE9K6U",
+  "unionGender": "男",
+  "originalResponse": {
+    "openid": "ourHYv2zgDc_otRUvS0A2Wclg3zs",
+    "city": "黔东南",
+    "privilege": [],
+    "country": "中国",
+    "nickname": "拍不死的蚊子",
+    "headimgurl": "http://thirdwx.qlogo.cn/mmopen/vi_32/Q0j4TwGTfTIuibgkN6omogQYbe2Gq9V4E8bFPD8dlER6QiavAdgLzw8uViaKtlLiat2eJHibyT8vXPicst1kYjBaMDBg/132",
+    "unionid": "oYYMav_uwuAJpC7p45QYaFprrfWY",
+    "language": "zh_CN",
+    "sex": 1,
+    "province": "贵州"
+  },
+  "name": "拍不死的蚊子"
+}

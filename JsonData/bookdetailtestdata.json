@@ -1,0 +1,87 @@
+{
+  "recommendList": [
+    {
+      "id": 2,
+      "bookId": "8502964",
+      "bookName": "三国之惧内王爷",
+      "authorName": "爱辣吃不辣",
+      "recommend": "被父亲卖入豪门，嫁给重病富少，伺候卧病五年不起的老公吃喝拉撒，某天，居然发现病得快要死的老公，夜深人静时在健身：“医生不是说你快死了？”男人搂住她的纤腰，似笑非笑：“怎么？你就那么希望为夫死掉？”说着，便封住了她的唇！天啦，这哪是什么重病少爷，他的体力比九头牛还强壮！",
+      "categoryName": "悬疑灵异",
+      "icon": "http://vipbook.sinaedge.com/bookcover/pics/217/cover_62ecd07f6701e0ac80c512e59e3ed524.jpg"
+    },
+    {
+      "id": 2,
+      "bookId": "8502964",
+      "bookName": "狼牙特战队",
+      "authorName": "钟表",
+      "recommend": "被父亲卖入豪门，嫁给重病富少，伺候卧病五年不起的老公吃喝拉撒，某天，居然发现病得快要死的老公，夜深人静时在健身：“医生不是说你快死了？”男人搂住她的纤腰，似笑非笑：“怎么？你就那么希望为夫死掉？”说着，便封住了她的唇！天啦，这哪是什么重病少爷，他的体力比九头牛还强壮！",
+      "categoryName": "战争",
+      "icon": "http://vipbook.sinaedge.com/bookcover/pics/139/cover_3def949b4f83c7d1166be38abdbee659.jpg"
+    },
+    {
+      "id": 2,
+      "bookId": "8502964",
+      "bookName": "仙武封神",
+      "authorName": "如狼似虎",
+      "recommend": "被父亲卖入豪门，嫁给重病富少，伺候卧病五年不起的老公吃喝拉撒，某天，居然发现病得快要死的老公，夜深人静时在健身：“医生不是说你快死了？”男人搂住她的纤腰，似笑非笑：“怎么？你就那么希望为夫死掉？”说着，便封住了她的唇！天啦，这哪是什么重病少爷，他的体力比九头牛还强壮！",
+      "categoryName": "玄幻",
+      "icon": "http://vipbook.sinaedge.com/bookcover/pics/141/cover_bd761a05d66372f2d9261f0a3f4bd5ce.jpg"
+    },
+    {
+      "id": 2,
+      "bookId": "8502964",
+      "bookName": "仙道女配逆袭记",
+      "recommend": "被父亲卖入豪门，嫁给重病富少，伺候卧病五年不起的老公吃喝拉撒，某天，居然发现病得快要死的老公，夜深人静时在健身：“医生不是说你快死了？”男人搂住她的纤腰，似笑非笑：“怎么？你就那么希望为夫死掉？”说着，便封住了她的唇！天啦，这哪是什么重病少爷，他的体力比九头牛还强壮！",
+      "authorName": "秦青词",
+      "categoryName": "幻想言情",
+      "icon": "http://vipbook.sinaedge.com/bookcover/pics/20/cover_09919e966febca0fedcfc32115d286bf.jpg"
+    }
+  ],
+  "detail": {
+    "id": 3,
+    "authorName": "龙家小子",
+    "bookId": "3",
+    "bookName": "夜半惊婚",
+    "recommend": "为了钱，婶婶将我嫁给乡下的老光棍，他却在新婚当晚暴毙……之后我夜夜鬼压床，凶手竟然是……......\n",
+    "icon": "http://www.bookbl.com/bookcover/96205.jpg",
+    "chapterCount": 345,
+    "isContinue": 1,
+    "inBag": 0,
+    "categoryName": "武侠玄幻"
+  },
+  "chapterList": [
+    {
+      "id": 4,
+      "chapterId": "84027036918",
+      "bookId": 3,
+      "chapterOrder": 1,
+      "chapterName": "新婚夜暴毙",
+      "chapterUrl": "http://www.bookbl.com/xs/96205/27036918.html"
+    },
+    {
+      "id": 5,
+      "chapterId": "84027036919",
+      "bookId": 3,
+      "chapterOrder": 2,
+      "chapterName": "春梦",
+      "chapterUrl": "http://www.bookbl.com/xs/96205/27036919.html"
+    },
+    {
+      "id": 6,
+      "chapterId": "84027036920",
+      "bookId": 3,
+      "chapterOrder": 3,
+      "chapterName": "神秘人",
+      "chapterUrl": "http://www.bookbl.com/xs/96205/27036920.html"
+    }
+  ],
+  "latestChapterInfo": {
+    "id": 6,
+    "chapterId": "84027036920",
+    "bookId": 3,
+    "chapterOrder": 3,
+    "chapterName": "神秘人",
+    "chapterUrl": "http://www.bookbl.com/xs/96205/27036920.html"
+  },
+  "msgCode": 200
+}
